@@ -1,5 +1,10 @@
 <p>The teacher views technology not as an end in itself but as a tool for learning and communication for self and for learners, integrating its use in all facets of professional practice, and for adapting instruction to meet the needs of each learner (and of professional work).</p>
 <h4>PDFs</h4>
+<p><a href="Revised%20lesson%20plan.pdf">Technology Standard Lesson Plan</a></p>
+<p><a href="Linear%20programming%20powerpoint.pdf">Technology Standard Lesson Powerpoint</a></p>
+<p><a href="Problems%20for%20linear%20programming%20lesson.pdf">Linear Programming Problems and Solutions</a></p>
+<p><a href="https://padlet.com/ectcollege/5dvpxrtu2c0i">Student Artifacts</a></p>
+<p><a href="Reflection%20COE.pdf">Technology Lesson Reflection</a></p>
 
 <h3 align="center">Technology Lesson Reflection</h3>
 <p>During this lesson, I planned for a multitude of technology. Among these were using Desmos, an online graphing calculator that is incredibly easy to use; Padlet which is a webpage where students can follow a QR code to post something to a wall; Powerpoint to project information onto the white board; and kahoot, which is an online game where students compete against one another and answer short questions. Both Desmos and Kahoot require students to use their phones. Because of this, students are engaged and motivated more to do a lesson because having technology is fun and entertaining, especially in a classroom where it is difficult for students to relate to the content. Because using technology is incredibly engaging, the students are more focused on the work. Other benefits of using technology in the classroom, especially during this lesson, are that students now have another resource they can use during homework (Desmos), students can look at a hard copy and up at the white board while the teacher is talking (Powerpoint). Using Powerpoint against a white board also allows students to write on the white board using a template projected. And using kahoot brings out a competitive and energetic side of students that may not be present otherwise in the math classroom. </p>
